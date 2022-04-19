@@ -1,2 +1,2 @@
-# learning-javaScript
- I´m a self-taught Dev, this is my repository to track my progress while I´m learnig how to code 
+JS Counter
+This is a begginer project using JavaScript, CSS and HTML
