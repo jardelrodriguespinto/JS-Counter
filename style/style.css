@@ -34,3 +34,82 @@ button:hover{
 	border:2px solid darkblue;
 	color:darkblue;
 }
+
+@media screen and (max-width: 510px){
+	h1{
+		font-size: 5.5rem;
+	}
+	#content-el{
+		font-size: 80px;
+	}
+	button{
+		font-size: 10px;
+		width:130px;
+		height: 50px;
+	}
+}
+@media screen and (max-width: 488px){
+	h1{
+		font-size: 5rem;
+	}
+	#content-el{
+		font-size: 70px;
+	}
+	button{
+		font-size: 10px;
+		width:100px;
+		height: 30px;
+	}
+}
+@media screen and (max-width: 342px){
+	h1{
+		font-size: 4.5rem;
+	}
+	#content-el{
+		font-size: 60px;
+	}
+	button{
+		font-size: 8px;
+		width:90px;
+		height: 20px;
+	}
+}
+@media screen and (max-width: 342px){
+	h1{
+		font-size: 3.5rem;
+	}
+	#content-el{
+		font-size: 50px;
+	}
+	button{
+		font-size: 5px;
+		width:70px;
+		height: 15px;
+	}
+}
+@media screen and (max-width: 260px){
+	h1{
+		font-size: 2.5rem;
+	}
+	#content-el{
+		font-size: 40px;
+	}
+	button{
+		font-size: 5px;
+		width:60px;
+		height: 10px;
+	}
+}
+@media screen and (max-width: 225px){
+	h1{
+		font-size: 2rem;
+	}
+	#content-el{
+		font-size: 35px;
+	}
+	button{
+		font-size: 5px;
+		width:50px;
+		height: 10px;
+	}
+}
